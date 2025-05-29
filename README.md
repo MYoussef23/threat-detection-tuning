@@ -42,7 +42,7 @@ Feel free to explore the examples, adapt the logic to your own environment (with
 
 If you have any questions or would like to discuss the content of this repository, feel free to connect with me via:
 
-* **LinkedIn:** [www.linkedin.com/in/malak-y-704a65137]
+* **LinkedIn:** www.linkedin.com/in/malak-y-704a65137
 
 ---
 
