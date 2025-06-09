@@ -6,11 +6,11 @@ This README outlines a tuning request to enrich the context of Event ID 4625 (Fa
 
 * [Description](#Description)  
 * [Current Behavior](#current-behavior)  
-* [Expected Behavior](expected-behavior)  
-* [Logs / Examples](logs--examples)  
-* [Impact](impact)  
-* [Suggested Changes](suggested-changes)  
-* [Environment](environment)
+* [Expected Behavior](#expected-behavior)  
+* [Logs / Examples](#logs--examples)  
+* [Impact](#impact)  
+* [Suggested Changes](#suggested-changes)  
+* [Environment](#environment)
 
 ## Description
 
