@@ -5,7 +5,7 @@ This README outlines a tuning request to enrich the context of Event ID 4625 (Fa
 ## Table of Contents
 
 * [Description](#Description)  
-* [Current Behavior](current-behavior)  
+* [Current Behavior](#current-behavior)  
 * [Expected Behavior](expected-behavior)  
 * [Logs / Examples](logs--examples)  
 * [Impact](impact)  
